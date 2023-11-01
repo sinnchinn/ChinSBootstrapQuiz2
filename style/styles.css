@@ -1,3 +1,15 @@
-.margin {
-    margin-left: 80px;
+.bgBlue {
+    background-color: blue;
+}
+
+.bgRed {
+    background-color: red;
+}
+
+.bgGreen {
+    background-color: green;
+}
+
+.bgAqua {
+    background-color: aqua;
 }
